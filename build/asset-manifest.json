@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cd3f3c2a.css",
+    "main.js": "/static/js/main.1a66f29a.js",
+    "static/media/chocolate-brownie-cake-piece-stack-plate-homemade-pastries.jpg": "/static/media/chocolate-brownie-cake-piece-stack-plate-homemade-pastries.4c6b0b8d3147894b7ec9.jpg",
+    "static/media/b4.jpg": "/static/media/b4.fef963b256237c286d00.jpg",
+    "static/media/b8.jpg": "/static/media/b8.9cb3a73f4122ff809fd2.jpg",
+    "static/media/banner3.jpg": "/static/media/banner3.195d02a96f62a1e00149.jpg",
+    "static/media/b6.jpg": "/static/media/b6.60a01d345dd85731997c.jpg",
+    "static/media/b10.jpg": "/static/media/b10.518c7f2268976b3ba91a.jpg",
+    "static/media/banner1.jpg": "/static/media/banner1.1565abcebfd8a216d10f.jpg",
+    "static/media/sad1.jpg": "/static/media/sad1.0e7ffe3a67106baa8289.jpg",
+    "static/media/banner2.jpg": "/static/media/banner2.c94b6279b172bf970e65.jpg",
+    "index.html": "/index.html",
+    "main.cd3f3c2a.css.map": "/static/css/main.cd3f3c2a.css.map",
+    "main.1a66f29a.js.map": "/static/js/main.1a66f29a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd3f3c2a.css",
+    "static/js/main.1a66f29a.js"
+  ]
+}
