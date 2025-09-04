@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/yugan-bakes/static/css/main.cd3f3c2a.css",
-    "main.js": "/yugan-bakes/static/js/main.8d5856a1.js",
+    "main.js": "/yugan-bakes/static/js/main.a78213e5.js",
     "static/media/chocolate-brownie-cake-piece-stack-plate-homemade-pastries.jpg": "/yugan-bakes/static/media/chocolate-brownie-cake-piece-stack-plate-homemade-pastries.4c6b0b8d3147894b7ec9.jpg",
     "static/media/b4.jpg": "/yugan-bakes/static/media/b4.fef963b256237c286d00.jpg",
     "static/media/b8.jpg": "/yugan-bakes/static/media/b8.9cb3a73f4122ff809fd2.jpg",
@@ -13,10 +13,10 @@
     "static/media/banner2.jpg": "/yugan-bakes/static/media/banner2.c94b6279b172bf970e65.jpg",
     "index.html": "/yugan-bakes/index.html",
     "main.cd3f3c2a.css.map": "/yugan-bakes/static/css/main.cd3f3c2a.css.map",
-    "main.8d5856a1.js.map": "/yugan-bakes/static/js/main.8d5856a1.js.map"
+    "main.a78213e5.js.map": "/yugan-bakes/static/js/main.a78213e5.js.map"
   },
   "entrypoints": [
     "static/css/main.cd3f3c2a.css",
-    "static/js/main.8d5856a1.js"
+    "static/js/main.a78213e5.js"
   ]
 }
