@@ -7,7 +7,7 @@ import Products from "./pages/Products";
 import About from "./Components/About";
 import Contact from "./Components/Contact";
 import Cart from "./pages/Cart";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 
 function App() {
   return (

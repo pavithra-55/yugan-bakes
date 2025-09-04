@@ -2,7 +2,7 @@
   "name": "yugan-bakes",
   "version": "1.0.0",
   "main": "index.js",
-  "homepage": "https://pavithra-55.github.io/yugan-bakes/",
+  "homepage": "https://pavithra-55.github.io/yugan-bakes",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
