@@ -1,0 +1,25 @@
+.browns{
+    color: #f43c00;
+
+}
+.indigo{
+    color:#a51ccc;
+}
+
+.carousel-item img {
+    max-height: 500px;
+    /* Prevents images from being too large */
+    object-fit: cover;
+}
+
+.btn-primary {
+    background-color: #ff6600;
+    border: none;
+    padding: 12px 24px;
+    font-size: 1.2rem;
+    transition: 0.3s;
+}
+
+.btn-primary:hover {
+    background-color: #e65c00;
+}

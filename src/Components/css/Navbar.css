@@ -1,0 +1,20 @@
+.navbar {
+    transition: all 0.3s ease-in-out;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    color: #2d1a0d !important;
+    /* Custom color for branding */
+}
+
+.navbar-nav .nav-link {
+    font-size: 1.1rem;
+    color: #333 !important;
+    transition: color 0.3s ease-in-out;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #2d1a0d !important;
+    /* Hover color */
+}
