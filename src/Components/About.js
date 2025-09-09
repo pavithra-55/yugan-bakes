@@ -30,7 +30,7 @@ const About = () => {
       <h3 className="mt-4 text-secondary">Visit Us</h3>
       <p className="text-muted">
         📍 <strong>Location:</strong> Coimbatore <br />
-        📞 <strong>Contact Us:</strong> +91 9876543210 <br />
+        📞 <strong>Contact Us:</strong> +91 9688337366 <br />
         📧 <strong>Email:</strong> yuganbakes@gmail.com
       </p>
     </div>
