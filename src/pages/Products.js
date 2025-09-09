@@ -7,7 +7,7 @@ import img2 from '../assets/img/banner2.jpg';
 import img3 from '../assets/img/banner3.jpg';
 import img4 from '../assets/img/b10.jpg';
 import img5 from '../assets/img/b6.jpg';
-import img6 from '../assets/img/chocolate-brownie-cake-piece-stack-plate-homemade-pastries.jpg';
+import img6 from '../assets/img/brownie.jpg';
 
 
 
