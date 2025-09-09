@@ -16,7 +16,7 @@ const Cart = () => {
                             <div className="col-md-6">
                                 <img src={sad} className="card-img-top" alt="Sad" width="300" height="400"/>
                             </div>
-                            <div className="col-md-6 p-5 ">
+                            <div className="col-md-6 p-5">
                                 <h2 className="text-center">Your cart is empty.</h2>
                                 <Link className="btn btn-warning btn-lg" to="/products">Go to products page</Link>
                             </div>
