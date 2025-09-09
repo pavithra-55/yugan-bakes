@@ -1,6 +1,7 @@
 import React, { useContext } from "react";
 import { CartContext } from "../context/CartContext";
 import sad from '../assets/img/sad1.jpg';
+import { Link } from "react-router-dom";
 
 const Cart = () => {
     const { cart, removeFromCart } = useContext(CartContext);
