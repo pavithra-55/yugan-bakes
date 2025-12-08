@@ -8,7 +8,7 @@ import img5 from '../assets/img/b6.jpg';
 import img6 from '../assets/img/chocolate-brownie-cake-piece-stack-plate-homemade-pastries.jpg';
 
 function HomeGallary() {
-    const images = [img1, img2, img3, img4, img5, img6];
+    const images = [img1, img2, img3, img4, img5, img6, img7];
 
     return (
         <div className='container img-content my-5'>
